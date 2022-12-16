@@ -1,0 +1,11 @@
+[
+    {
+        "url" : "https://ressources.data.sncf.com/api/records/1.0/search/?dataset=ponctualite-mensuelle-transilien&q=&rows=1&sort=date&facet=date&facet=service&facet=ligne",
+        "dataset_name" : "ponctualite-mensuelle-transilien"
+    },
+    {
+        "url" : "https://ressources.data.sncf.com/api/records/1.0/search/?dataset=validations-reseau-ferre-nombre-validations-par-jour-1er-semestre&q=&facet=jour&facet=libelle_arret&facet=categorie_titre",
+        "dataset_name" : "validations-reseau-ferre-nombre-validations"
+    }
+    
+]
